@@ -42,7 +42,3 @@ This project is designed to provide meaningful insights into diversity and inclu
 
 ---
 
-
-
-
-For more information or questions, please contact the repository maintainer.
